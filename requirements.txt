@@ -1,0 +1,7 @@
+playwright>=1.55,<2
+openai>=2,<3
+google-api-python-client>=2,<3
+google-auth-oauthlib>=1,<2
+google-auth-httplib2>=0.2,<1
+pydantic>=2,<3
+python-dotenv>=1,<2
